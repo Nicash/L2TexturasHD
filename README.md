@@ -3,6 +3,11 @@ Hola, gente. He creado este proyecto para mejor la estética general del L2. La 
 
 Próximamente subiré un video a YouTube explicando paso a paso cómo se realiza el trabajo para que aquellos que quieran colaborar puedan hacerlo.
 
+
+------------
+
+
+
 #### Capturas comparativas
 
 ![](https://i.postimg.cc/tJ1012cF/1.png)
@@ -13,7 +18,12 @@ Próximamente subiré un video a YouTube explicando paso a paso cómo se realiza
 
 ![](https://i.postimg.cc/cC1RTzW8/Captura-de-pantalla-2024-03-16-045446.png)
 
-### Apoyo :tw-1f49b:
+
+------------
+
+
+
+### Apoyo
 
 Si te gustó este trabajo puedes apoyarme con una mínima donación en los siguientes enlaces:
 
